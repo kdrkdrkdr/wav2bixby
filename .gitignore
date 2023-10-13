@@ -1,3 +1,7 @@
+*.wav
+*.apk
+resign.keystore
+*.idsig
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
